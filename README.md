@@ -24,10 +24,8 @@ Angular is a development platform for building mobile and desktop web applicatio
 
 [Get started in 5 minutes][quickstart].
 
-```
-## ИМЯ РАЗРАБОТЧИКА И КОНТАКТЫ:
 
-```
+## ИМЯ РАЗРАБОТЧИКА И КОНТАКТЫ:
 
 DARIA SYUZEVA, E-MAIL: D.BOCHAROVA@I-TECO.RU
 
