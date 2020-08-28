@@ -7,7 +7,7 @@
     :clap::clap::tada::tada::tada::tada::clap::clap:
     <br>
     <br>
-    Base project made with much :heart:. Contains CRUD, patterns, generated library, and much more!
+   Easy start on working with the Angular made with much :heart:.
     <br>
     <br>
     <img src="https://media.giphy.com/media/l1J9uqrrdc8B3aa6A/giphy.gif"/>
