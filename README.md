@@ -13,9 +13,6 @@
     <img src="https://media.giphy.com/media/l1J9uqrrdc8B3aa6A/giphy.gif"/>
     <br>
     <br>
-    <a href="https://github.com/Ismaestro/angular9-example-app/issues/new">Report bug</a>
-    ·
-    <a href="https://github.com/Ismaestro/angular9-example-app/issues/new">Request feature</a>
   </p>
 </p>
 
