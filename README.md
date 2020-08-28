@@ -10,7 +10,7 @@
     Base project made with much :heart:. Contains CRUD, patterns, generated library, and much more!
     <br>
     <br>
-    <img src="https://media.giphy.com/media/ce28l1P13CVK56OyCN/giphy.gif" alt="Demo example"/>
+    <img src="https://media.giphy.com/media/l1J9uqrrdc8B3aa6A/giphy.gif"/>
     <br>
     <br>
     <a href="https://github.com/Ismaestro/angular9-example-app/issues/new">Report bug</a>
