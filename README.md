@@ -25,11 +25,15 @@ Angular is a development platform for building mobile and desktop web applicatio
 # Set up your environment
 Go to https://angular.io/guide/setup-local
 
-Ensure that you are not already in an Angular workspace folder. For example, if you have previously created the Getting Started workspace, change to the parent of that folder.
+To create a new workspace and an initial app project:
+-----------
+* Ensure that you are not already in an Angular workspace folder. For example, if you have previously created the Getting Started workspace, change to the parent of that folder.
 
-Run the CLI command ng new and provide the name angular-tour-of-heroes, as shown here:
+* Run the CLI command ng new and provide the name angular-tour-of-heroes, as shown here:
 
         ng new angular-tour-of-heroes
+        
+* ng newThe command prompts you for information about features to include in the initial app project. Accept the defaults by pressing the Enter or Return key.
         
 ## Developers
 
