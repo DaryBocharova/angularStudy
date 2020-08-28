@@ -56,6 +56,7 @@ DARIA SYUZEVA, E-MAIL: D.BOCHAROVA@I-TECO.RU
 
 Github: DaryaBocharova
 
+Trello: https://trello.com/b/HDrSYA8R/project-сюзева-бочарова-дарья
 
 :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat: 
 ```
