@@ -1,6 +1,23 @@
-[![Angular](https://angular.io/?Angular)
-[![Build Status](https://github.com/DaryaBocharova/angularStudy] [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/@angular/core)
+[![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/@angular/core)
 
+ <p align="center">
+    Example app with Angular 2+
+    <br>
+    <br>
+    :clap::clap::tada::tada::tada::tada::clap::clap:
+    <br>
+    <br>
+    Base project made with much :heart:. Contains CRUD, patterns, generated library, and much more!
+    <br>
+    <br>
+    <img src="https://media.giphy.com/media/ce28l1P13CVK56OyCN/giphy.gif" alt="Demo example"/>
+    <br>
+    <br>
+    <a href="https://github.com/Ismaestro/angular9-example-app/issues/new">Report bug</a>
+    ·
+    <a href="https://github.com/Ismaestro/angular9-example-app/issues/new">Request feature</a>
+  </p>
+</p>
 
 TASK-MANAGER
 --------------------------------------------------------------------------------------
