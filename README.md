@@ -28,8 +28,9 @@ Go to https://angular.io/guide/setup-local
 Ensure that you are not already in an Angular workspace folder. For example, if you have previously created the Getting Started workspace, change to the parent of that folder.
 
 Run the CLI command ng new and provide the name angular-tour-of-heroes, as shown here:
-----------------
-ng new angular-tour-of-heroes
+
+        ng new angular-tour-of-heroes
+        
 ## Developers
 
 DARIA SYUZEVA, E-MAIL: D.BOCHAROVA@I-TECO.RU
