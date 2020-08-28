@@ -45,8 +45,10 @@ Serve the application
       ng serve --open
         
 > ng serveThe command builds the app, starts the development server, watches the source files, and rebuilds the app as you make changes to those files.
-
 > --openThe flag opens a browser to http://localhost:4200/.
+
+You should see the app running in your browser.
+-----------
 
 ## Developers
 
