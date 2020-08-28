@@ -1,5 +1,5 @@
 [![Angular](https://angular.io/?Angular)
-[![Build Status](https://github.com/DaryaBocharova/angularStudy]
+[![Build Status](https://github.com/DaryaBocharova/angularStudy] [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/@angular/core)
 
 
 TASK-MANAGER
