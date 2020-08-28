@@ -34,7 +34,20 @@ To create a new workspace and an initial app project:
         ng new angular-tour-of-heroes
         
 * ng newThe command prompts you for information about features to include in the initial app project. Accept the defaults by pressing the Enter or Return key.
+
+# The initial app project contains a simple Welcome app, ready to run.
+
+Serve the application
+-----------
+* Go to the workspace directory and launch the application.
+
+      cd angular-tour-of-heroes
+      ng serve --open
         
+> ng serveThe command builds the app, starts the development server, watches the source files, and rebuilds the app as you make changes to those files.
+
+> --openThe flag opens a browser to http://localhost:4200/.
+
 ## Developers
 
 DARIA SYUZEVA, E-MAIL: D.BOCHAROVA@I-TECO.RU
